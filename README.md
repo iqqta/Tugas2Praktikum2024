@@ -14,13 +14,12 @@ Proses navigasi ke halaman berikutnya dilakukan menggunakan Navigator.of(context
 Buat tampilan semenarik mungkin untuk dilihat.
 
 
-Nama : Argo Iqbal Surnata
+Nama : Argo Iqbal Suranata
 
 NIM : H1D022057
 
 Shift Baru: F
 
 ## Screenshot
-Contoh :
-![Lampiran Form](form.png)
-![Lampiran Hasil](hasil.png)
+(form.png)
+(hasil.png)
