@@ -21,5 +21,5 @@ NIM : H1D022057
 Shift Baru: F
 
 ## Screenshot
-(form.png)
-(hasil.png)
+![Form](form.png)
+![Hasil](hasil.png)
